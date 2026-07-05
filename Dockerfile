@@ -13,5 +13,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 COPY main.py .
+COPY scripts/railway-cron.sh /app/railway-cron.sh
+RUN chmod +x /app/railway-cron.sh
 
-CMD ["python", "main.py"]
+CMD ["/app/railway-cron.sh"]
