@@ -1,7 +1,15 @@
 # What Access Does OptiSigns Have to My Account and Devices?
+- [The Basics](#Basics)
+- [Why our Team Might Access Your Account](#Why)
+- [How our Remote Device Support Works](#RemoteDeviceSupport)
+- [How you Stay in Control](#Control)
+- [Frequently Asked Questions](#FAQ)
+
 Your content, screens, and account are yours. OptiSigns is built so you keep control of your devices, and our team can help you when something goes wrong.
 
 This article explains exactly what our team can and can't do.
+
+---
 
 ## The Basics
 
@@ -19,7 +27,9 @@ Connections are encrypted. Every access and every change is logged, auditable, a
 
 And, critically, we never rent or sell your data.
 
-## Why Our Team Might Access Your Account
+---
+
+## Why our Team Might Access Your Account
 
 Most issues are far faster to fix when we can see what you see.
 
@@ -29,7 +39,9 @@ All this occurs with your explicit approval.
 
 Our method pairs purpose-bound access with logging and customer control, which is the industry standard.
 
-## How Our Remote Device Support Works
+---
+
+## How our Remote Device Support Works
 
 For OptiSigns players, a secure connection called **SecureLink** lets our team view device diagnostics so we can see why a device is misbehaving. By default this is view-only: we can look, but we cannot change anything.
 
@@ -43,14 +55,18 @@ This allows our support team to remotely access your devices.
 
 What we can't access: the screen shows the content you've chosen to display publicly. It is not a camera, and we cannot collect your passwords or personal information from the device.
 
-## How you stay in control
+---
+
+## How you Stay in Control
 
 - **Remote Support Access (changes):** off by default. Turn it on or off anytime in **Account Settings**. When it's off, we can still view diagnostics to help, but any change needs your approval first.
 - **SecureLink (the secure connection):** on by default so we can support the hardware we sold you. If your organization needs it fully disabled, contact us and we'll turn it off for your account.
   - Note that this removes remote support for those devices, so we'll no longer be able to diagnose or fix them remotely.
-- **Your own team's access:** you decide who on *your* side can view and change things, using roles and teams in Account Settings.
+- **Your own team's access:** you decide who on *your* side can view and change things, using [Roles](https://support.optisigns.com/hc/en-us/articles/360046356113-Advanced-Security-Managing-User-Roles), [Teams](https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels), and [Folder Security](https://support.optisigns.com/hc/en-us/articles/360044600474-Folder-Level-Permissions).
 
-## Frequently asked questions
+---
+
+## Frequently Asked Questions
 
 #### **Can OptiSigns see my content?**
 
@@ -88,7 +104,7 @@ Yes. Remote Support Access is off by default, and you control it. The underlying
 
 No. We never sell or rent your data.
 
-## Still have questions?
+### Still have questions?
 
 Contact us at [support@optisigns.com](mailto:support@optisigns.com).
     
